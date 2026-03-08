@@ -4,7 +4,7 @@
 
 > LibSpace is a backend API project designed to teach students the fundamentals of authentication and CRUD operations using Node.js, Express, and MongoDB. The system allows users to securely register and log in to receive a JSON Web Token (JWT). Authenticated users can then manage a digital library by adding new books, viewing the entire collection or specific id, updating book details, and deleting entries, ensuring that sensitive data modification is protected by secure token verification.
 
-## 🚀 About the Project
+## 🚀  About the Project
 
 ### Key Features
 
